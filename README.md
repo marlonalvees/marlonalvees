@@ -4,7 +4,7 @@
 </em></p><br>
 <ul dir="auto">
 <li><g-emoji class="g-emoji" alias="seedling" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f331.png">🌱</g-emoji> Estudando React.js, Bootstrap :D </li>
-</ul><br>
+</ul><br>😉
 
 <div align="center">
   <a href="https://github.com/marlonalvees">
