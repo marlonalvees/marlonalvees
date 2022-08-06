@@ -1,6 +1,6 @@
 <h2>Olá, Eu sou o Marlon Alves! 
 <img src="https://media.giphy.com/media/12oufCB0MyZ1Go/giphy.gif" width="50"></h2>
-<p><em>Estudante de Engenharia de Software (UNESA), e também estudante de Desenvolvimento Front-end, com foco em ser fullstack.🚀 <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
+<p><em>Estudante de Engenharia de Software (UNESA), e também estudante de Desenvolvimento Front-end com foco em ser fullstack.🚀 <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
 </em></p><br>
 <ul dir="auto">
 <li><g-emoji class="g-emoji" alias="seedling" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f331.png">🌱</g-emoji> Estudando React.js, Bootstrap 😉 </li>
