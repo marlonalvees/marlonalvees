@@ -2,9 +2,7 @@
 <img src="https://media.giphy.com/media/12oufCB0MyZ1Go/giphy.gif" width="50"></h2>
 <p><em>Estudante de Análise e Desenvolvimento de Sistemas, desenvolvedor Front-end.🚀 <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
 </em></p><br>
-<ul dir="auto">
-<li><g-emoji class="g-emoji" alias="seedling" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f331.png">🌱</g-emoji> Estudando React.js, Bootstrap 😉 </li>
-</ul><br>
+
 
 <div align="center">
   <a href="https://github.com/marlonalvees">
