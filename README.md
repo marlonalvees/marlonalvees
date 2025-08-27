@@ -1,5 +1,5 @@
 <h2>Olá, Eu sou o Marlon Alves! 
-<p><em>Estudante de Análise e Desenvolvimento de Sistemas, desenvolvedor Front-end.🚀 
+<p><em>Estudante de Análise e Desenvolvimento de Sistemas, desenvolvedor Front-end.
 </em></p><br>
 
 
