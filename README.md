@@ -1,5 +1,4 @@
 <h2>Olá, Eu sou o Marlon Alves! 
-<img src="https://media.giphy.com/media/12oufCB0MyZ1Go/giphy.gif" width="50"></h2>
 <p><em>Estudante de Análise e Desenvolvimento de Sistemas, desenvolvedor Front-end.🚀 <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
 </em></p><br>
 
