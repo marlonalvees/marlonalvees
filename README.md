@@ -32,22 +32,6 @@ Currently focused on building applications using React, Next.js, TypeScript and 
 
 ---
 
-## Featured Projects
-
-### Portfolio Website
-
-Personal portfolio built with Next.js and TypeScript focused on performance, responsiveness and modern UI design.
-
-### Full Stack Applications
-
-Web applications with API integration, authentication flows and responsive interfaces.
-
-### Dashboards & Admin Panels
-
-Projects focused on data visualization, usability and scalable front-end architecture.
-
----
-
 ## GitHub Stats
 
 <div align="center">
