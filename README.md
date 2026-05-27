@@ -14,31 +14,11 @@ Full Stack Developer focused on building modern, scalable and responsive web app
 
 ---
 
-## About
-
-I'm a Full Stack Developer passionate about creating modern web applications with clean interfaces, strong performance and great user experiences.
-
-Currently focused on building applications using React, Next.js, TypeScript and Node.js.
-
----
-
 ## Tech Stack
 
 <div align="left">
 
 <img src="https://skillicons.dev/icons?i=ts,js,react,nextjs,nodejs,html,css,git,vscode" />
-
-</div>
-
----
-
-## GitHub Stats
-
-<div align="center">
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=marlonalvees&show_icons=true&theme=transparent&hide_border=true"/>
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=marlonalvees&layout=compact&theme=transparent&hide_border=true"/>
 
 </div>
 
