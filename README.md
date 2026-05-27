@@ -1,27 +1,76 @@
-<h2>Olá, Eu sou o Marlon Alves! 
-<p><em>Estudante de Análise e Desenvolvimento de Sistemas, desenvolvedor.
-</em></p><br>
+<div align="center">
 
+# Marlon Alves
+
+Full Stack Developer focused on building modern, scalable and responsive web applications.
+
+<br/>
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat\&logo=linkedin\&logoColor=white)](https://linkedin.com/in/seu-linkedin)
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=flat\&logo=vercel\&logoColor=white)](#)
+[![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=flat\&logo=gmail\&logoColor=white)](mailto:seuemail@gmail.com)
+
+</div>
+
+---
+
+## About
+
+I'm a Full Stack Developer passionate about creating modern web applications with clean interfaces, strong performance and great user experiences.
+
+Currently focused on building applications using React, Next.js, TypeScript and Node.js.
+
+---
+
+## Tech Stack
+
+<div align="left">
+
+<img src="https://skillicons.dev/icons?i=ts,js,react,nextjs,nodejs,html,css,git,vscode" />
+
+</div>
+
+---
+
+## Featured Projects
+
+### Portfolio Website
+
+Personal portfolio built with Next.js and TypeScript focused on performance, responsiveness and modern UI design.
+
+### Full Stack Applications
+
+Web applications with API integration, authentication flows and responsive interfaces.
+
+### Dashboards & Admin Panels
+
+Projects focused on data visualization, usability and scalable front-end architecture.
+
+---
+
+## GitHub Stats
 
 <div align="center">
-  <a href="https://github.com/marlonalvees">
-  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=marlonalvees&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=marlonalvees&layout=compact&langs_count=7&theme=dracula"/>
-</div>
-<div style="display: inline_block"><br>
-  <img align="center" alt="Marlon-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="Marlon-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="Marlon-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="Marlon-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
-  <img align="center" alt="Marlon-Git" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg">
-  <img align="right" alt="Pc-pic" height="150" style="border-radius:50px;" src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png">
-</div>
-  <br>
-  
-  ##
- 
-[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/malvesx/)
-[![Gmail](https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white)](mailto:marlonalves.dev@gmail.com)
-[![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/sHFyKN)
 
-<p dir="auto"><a target="_blank" rel="noopener noreferrer" href="https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg"><img src="https://github.com/rafaballerini/rafaballerini/raw/output/github-contribution-grid-snake.svg" alt="Snake animation" style="max-width: 100%;"></a></p>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=marlonalvees&show_icons=true&theme=transparent&hide_border=true"/>
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=marlonalvees&layout=compact&theme=transparent&hide_border=true"/>
+
+</div>
+
+---
+
+## Contact
+
+* LinkedIn: https://www.linkedin.com/in/malvesev/
+* Email: [email@gmail.com](mailto:email@gmail.com)
+
+---
+
+<div align="center">
+
+```txt
+</> Building modern experiences for the web.
+```
+
+</div>
