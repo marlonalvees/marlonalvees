@@ -28,6 +28,7 @@ Full Stack Developer focused on building modern, scalable and responsive web app
 
 * LinkedIn: https://www.linkedin.com/in/alvesmarlon/
 * Email: [marlonecard.contato@gmail.com](mailto:marlonecard.contato@gmail.com)
+* Portifólio: https://www.marlonalves.dev/
 
 ---
 
